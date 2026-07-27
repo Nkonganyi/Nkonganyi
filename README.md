@@ -1,8 +1,10 @@
-# Hi there! I'm Nkonganyi Blec Ketu
+# Hi there, I'm Nkonganyi Blec Ketu
 
-I'm a Software Engineering graduate passionate about building modern web and mobile applications that solve real-world problems.
+I'm a recent Software Engineering graduate from Cameroon with a passion for building software that solves real-world problems.
 
-Currently, I'm looking for opportunities as a Graduate Software Engineer while continuing to improve my skills in full-stack and mobile development.
+Over the past few years, I've worked on full-stack web applications and Flutter mobile apps, gaining hands-on experience with modern development tools and cloud technologies.
+
+I'm currently seeking opportunities as a Graduate Software Engineer while continuing to improve my skills every day.
 
 ---
 
@@ -15,37 +17,33 @@ Currently, I'm looking for opportunities as a Graduate Software Engineer while c
 - HTML
 - CSS
 
-### Frameworks & Libraries
+### Frameworks
 - React
 - Flutter
 - Node.js
 - Tailwind CSS
 
-### Backend & Databases
-- REST APIs
+### Databases & Cloud
 - PostgreSQL
-- Supabase
-- Firebase
 - SQLite
+- Firebase
+- Supabase
 
 ### Tools
 - Git
 - GitHub
-- Postman
 - VS Code
+- Postman
 
 ---
 
 ## Featured Projects
 
-### Smart Waste Management System
-A full-stack web application for digital waste reporting and garbage pickup scheduling.
+ Smart Waste Management System
 
-### Shop Credit Tracker
-Flutter application for managing customer credit purchases in local grocery stores with Firebase notifications and Supabase backend.
+ Shop Credit Tracker
 
-### Property Listing Platform
-Modern property management web application with authentication and CRUD functionality.
+ Property Listing Platform
 
 ---
 
@@ -58,13 +56,15 @@ Modern property management web application with authentication and CRUD function
 
 ---
 
-## Contact Me
+## 2026 Goal
 
-Email:
-nkonganyiketu@gmail.com
+Secure my first Software Engineering role and continue building software that makes a real impact.
+
+---
+
+## Reach Me
+
+Email: nkonganyiketu@gmail.com
 
 LinkedIn:
-https://linkedin.com/in/nkonganyi-ketu
-
-Portfolio:
-(Pending)
+[https://linkedin.com/in/...](https://www.linkedin.com/in/nkonganyi-ketu-36031b395/)
